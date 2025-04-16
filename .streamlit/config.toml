@@ -1,0 +1,17 @@
+[theme]
+# Starbucks color palette
+primaryColor = "#00704A"  # Starbucks green
+backgroundColor = "#1E1E1E"  # Dark background for dark mode
+secondaryBackgroundColor = "#2D2D2D"  # Slightly lighter dark background
+textColor = "#FFFFFF"  # White text for dark mode
+font = "sans serif"
+
+[server]
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal" 
